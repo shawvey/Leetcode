@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Hard-red">
 </div>
 
-| No.  | Title | Solution | Note | Difficulty | Tag  |
-| :--: | :---: | :------: | :--: | :--------: | :--: |
-|      |       |          |      |            |      |
+| No.  |       Title        |    Solution    |     Note     |                      Difficulty                      |  Tag   |
+| :--: | :----------------: | :------------: | :----------: | :--------------------------------------------------: | :----: |
+|  0   | 我来测试一下表格鸭 | 这里放solution | 这里放note吧 | <img src="https://img.shields.io/badge/-Easy-green"> | `测试` |
 
