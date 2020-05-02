@@ -8,9 +8,11 @@
     <img src="https://img.shields.io/badge/-Hard-red">
 </div>
 
-
+<div align="center">
 
 | No.  |  Title   |                 Solution                  |                         Note                          |                      Difficulty                      |  Tag   |
 | :--: | :------: | :---------------------------------------: | :---------------------------------------------------: | :--------------------------------------------------: | :----: |
 |  1   | 两数之和 | [1.两数之和](数据结构/数组/1.两数之和.js) | [更多参考方法](https://zhuanlan.zhihu.com/p/57566240) | <img src="https://img.shields.io/badge/-Easy-green"> | `数组` |
+
+</div>
 
