@@ -18,6 +18,7 @@
 |  4   | 总持续时间可被60整除的歌曲 | [1010.总持续时间可被60整除的歌曲](数据结构/数组/1010.总持续时间可被60整除的歌曲.js) |                                                              | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                 简单暴力破解                 |
 |  5   | 将数组分成和相等的三个部分 | [1013. 将数组分成和相等的三个部分](数据结构/数组/1013.将数组分成和相等的三个部分.js) | [更多参考方法](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                   双指针法                   |
 |  6   |         数组拆分 I         |       [561.数组拆分I](数据结构/数组/561.数组拆分I.js)        | [更多参考方法](https://leetcode-cn.com/problems/array-partition-i/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |               排序然后两两做对               |
+|  7   |          移除元素          |         [23.移除元素](数据结构/数组/23.移除元素.js)          | [更多参考方法](https://leetcode-cn.com/problems/remove-element/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                splice大法好！                |
 
 
 
