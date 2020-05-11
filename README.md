@@ -21,6 +21,7 @@
 |   7   |          移除元素          |         [23.移除元素](数据结构/数组/23.移除元素.js)          | [更多参考方法](https://leetcode-cn.com/problems/remove-element/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                splice大法好！                |
 | **8** |  可被 5 整除的二进制前缀   | [1018.可被 5 整除的二进制前缀](数据结构/数组/1018.可被5整除的二进制前缀.js) | [更多参考方法](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |              将二进制转成十进制              |
 | **9** |     数组中的K-diff数对     | [532.数组中的K-diff数对](数据结构/数组/532.数组中的K-diff数对.js) | [更多参考方法](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                 先排序再暴力                 |
+|  10   |        搜索插入位置        |     [35.搜索插入位置](数据结构/数组/35.搜索插入位置.js)      | [更多参考方法](https://leetcode-cn.com/problems/search-insert-position/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |              分三种情形考虑比较              |
 
 
 
