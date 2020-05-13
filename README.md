@@ -23,6 +23,7 @@
 | **9** |     数组中的K-diff数对     | [532.数组中的K-diff数对](数据结构/数组/532.数组中的K-diff数对.js) | [更多参考方法](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                 先排序再暴力                 |
 |  10   |        搜索插入位置        |     [35.搜索插入位置](数据结构/数组/35.搜索插入位置.js)      | [更多参考方法](https://leetcode-cn.com/problems/search-insert-position/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |              分三种情形考虑比较              |
 |  11   |       566. 重塑矩阵        |        [566.重塑矩阵](数据结构/数组/566.重塑矩阵.js)         | [更多参考方法](https://leetcode-cn.com/problems/reshape-the-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |    先转成一维数组再进行分割最后push进数组    |
+|  12   |       1160.拼写单词        |       [1160.拼写单词](数据结构/数组/1160.拼写单词.js)        | [更多参考方法](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |        使用indexof来找字符出现的位置         |
 
 
 
