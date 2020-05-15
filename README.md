@@ -25,6 +25,7 @@
 |   11   |          重塑矩阵          |        [566.重塑矩阵](数据结构/数组/566.重塑矩阵.js)         | [更多参考方法](https://leetcode-cn.com/problems/reshape-the-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |    先转成一维数组再进行分割最后push进数组    |
 |   12   |          拼写单词          |       [1160.拼写单词](数据结构/数组/1160.拼写单词.js)        | [更多参考方法](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |        使用indexof来找字符出现的位置         |
 | **13** |         高度检查器         |     [1051.高度检查器](数据结构/数组/1051.高度检查器.js)      | [更多参考方法](https://leetcode-cn.com/problems/height-checker/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |              扩展运算符的使用！              |
+|   14   |  1431.拥有最多糖果的孩子   | [1431.拥有最多糖果的孩子](数据结构/数组/1431.拥有最多糖果的孩子.js) | [更多参考方法](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |              用Math.max求最大值              |
 
 
 
