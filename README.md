@@ -29,6 +29,7 @@
 |   15   |       解压缩编码列表       | [1313.解压缩编码列表](数据结构/数组/1313.解压缩编码列表.js)  | [更多参考方法](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |             用push向数组添加元素             |
 |   16   | 在既定时间做作业的学生人数 | [5412.在既定时间做作业的学生人数](数据结构/数组/5412.在既定时间做作业的学生人数.js) | [更多参考方法](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                 一个循环比较                 |
 |   17   |    统计位数为偶数的数字    | [1295.统计位数为偶数的数字](数据结构/数组/1295.统计位数为偶数的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |          将数转换为字符串后获取位数          |
+|   18   |  有多少小于当前数字的数字  | [1365.有多少小于当前数字的数字](数据结构/数组/1365.有多少小于当前数字的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |               两个循环暴力破解               |
 
 
 
