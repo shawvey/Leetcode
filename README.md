@@ -32,6 +32,7 @@
 |   18   |  有多少小于当前数字的数字  | [1365.有多少小于当前数字的数字](数据结构/数组/1365.有多少小于当前数字的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |               两个循环暴力破解               |
 |   19   |   按既定顺序创建目标数组   | [1389.按既定顺序创建目标数组](数据结构/数组/1389.按既定顺序创建目标数组.js) | [更多参考方法](https://leetcode-cn.com/problems/create-target-array-in-the-given-order/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                利用splice插值                |
 |   20   |    访问所有点的最小时间    | [1266.访问所有点的最小时间](数据结构/数组/1266.访问所有点的最小时间.js) | [更多参考方法](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |              取绝对值然后求查值              |
+|   21   |    统计有序矩阵中的负数    | [1351. 统计有序矩阵中的负数](数据结构/数组/1351.统计有序矩阵中的负数.js) | [更多参考方法](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |        双重循环 如果有负数的话就break        |
 
 
 
