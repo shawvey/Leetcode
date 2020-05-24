@@ -34,6 +34,7 @@
 |   20   |     访问所有点的最小时间     | [1266.访问所有点的最小时间](数据结构/数组/1266.访问所有点的最小时间.js) | [更多参考方法](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |              取绝对值然后求查值              |
 |   21   |     统计有序矩阵中的负数     | [1351. 统计有序矩阵中的负数](数据结构/数组/1351.统计有序矩阵中的负数.js) | [更多参考方法](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |        双重循环 如果有负数的话就break        |
 |   22   | 将每个元素替换为右侧最大元素 | [1299.将每个元素替换为右侧最大元素](数据结构/数组/1299.将每个元素替换为右侧最大元素.js) | [更多参考方法](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |               逆序取当前最大值               |
+|   23   |   1252.奇数值单元格的数目    | [1252.奇数值单元格的数目](数据结构/数组/1252.奇数值单元格的数目.js) | [更多参考方法](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |     将行列分开 最后计算的时候将两者相加      |
 
 
 
