@@ -36,6 +36,7 @@
 |   22   | 将每个元素替换为右侧最大元素 | [1299.将每个元素替换为右侧最大元素](数据结构/数组/1299.将每个元素替换为右侧最大元素.js) | [更多参考方法](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                 逆序取当前最大值                  |
 |   23   |      奇数值单元格的数目      | [1252.奇数值单元格的数目](数据结构/数组/1252.奇数值单元格的数目.js) | [更多参考方法](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |        将行列分开 最后计算的时候将两者相加        |
 |   24   |      最短无序连续子数组      | [581.最短无序连续子数组](数据结构/数组/581.最短无序连续子数组.js) | [更多参考方法](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 | 得到升序数组 然后获得前后两个不相同的位置进行相减 |
+|   25   |   1304.和为零的N个唯一整数   | [1304.和为零的N个唯一整数](数据结构/数组/1304.和为零的N个唯一整数.js) | [更多参考方法](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |   增加对应的正负值 如果奇数个数的话 就多加一个0   |
 
 
 
