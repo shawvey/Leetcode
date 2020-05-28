@@ -38,7 +38,7 @@
 |   24   |      最短无序连续子数组      | [581.最短无序连续子数组](数据结构/数组/581.最短无序连续子数组.js) | [更多参考方法](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |   得到升序数组 然后获得前后两个不相同的位置进行相减   |
 |   25   |     和为零的N个唯一整数      | [1304.和为零的N个唯一整数](数据结构/数组/1304.和为零的N个唯一整数.js) | [更多参考方法](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |     增加对应的正负值 如果奇数个数的话 就多加一个0     |
 | **26** |        数组的相对排序        | [1122.数组的相对排序](数据结构/数组/1122.数组的相对排序.js)  | [更多参考方法](https://leetcode-cn.com/problems/relative-sort-array/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |               使用了concat,filter等方法               |
-| **27** |     1380.矩阵中的幸运数      | [1380.矩阵中的幸运数](数据结构/数组/1380.矩阵中的幸运数.js)  | [更多参考方法](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 | 设置了比较方法！通过math方法获得最小最大值 多看几遍！ |
+| **27** |        矩阵中的幸运数        | [1380.矩阵中的幸运数](数据结构/数组/1380.矩阵中的幸运数.js)  | [更多参考方法](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 | 设置了比较方法！通过math方法获得最小最大值 多看几遍！ |
 
 
 
