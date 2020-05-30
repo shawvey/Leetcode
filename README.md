@@ -40,6 +40,7 @@
 | **26** |        数组的相对排序        | [1122.数组的相对排序](数据结构/数组/1122.数组的相对排序.js)  | [更多参考方法](https://leetcode-cn.com/problems/relative-sort-array/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |               使用了concat,filter等方法               |
 | **27** |        矩阵中的幸运数        | [1380.矩阵中的幸运数](数据结构/数组/1380.矩阵中的幸运数.js)  | [更多参考方法](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 | 设置了比较方法！通过math方法获得最小最大值 多看几遍！ |
 | **28** |      0到n-1中缺失的数字      | [面试题53.0到n-1中缺失的数字](数据结构/数组/面试题53.0到n-1中缺失的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                     用二分查找法                      |
+|   29   |       判定字符是否唯一       | [面试题01.判定字符是否唯一.js](数据结构/数组/面试题01.判定字符是否唯一.js) | [更多参考方法](https://leetcode-cn.com/problems/is-unique-lcci/) | <img src="https://img.shields.io/badge/-Easy-green"> | 数组 |                       一一比较                        |
 
 
 
