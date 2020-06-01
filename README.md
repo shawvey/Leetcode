@@ -42,6 +42,7 @@
 | **28** |      0到n-1中缺失的数字      | [面试题53.0到n-1中缺失的数字](数据结构/数组/面试题53.0到n-1中缺失的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |  数组  |                     用二分查找法                      |
 |   29   |       判定字符是否唯一       | [面试题01.判定字符是否唯一.js](数据结构/数组/面试题01.判定字符是否唯一.js) | [更多参考方法](https://leetcode-cn.com/problems/is-unique-lcci/) | <img src="https://img.shields.io/badge/-Easy-green"> |  数组  |                       一一比较                        |
 |   30   |      反转字符串中的单词      | [557.反转字符串中的单词](数据结构/数组/557.反转字符串中的单词.js) | [更多参考方法](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |              利用split,reverse,join方法               |
+|   31   |        转换成小写字母        |  [709.转换成小写字母](数据结构/数组/709.转换成小写字母.js)   | [更多参考方法](https://leetcode-cn.com/problems/to-lower-case/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |             fromCharCode和charCodeAt方法              |
 
 
 
