@@ -44,6 +44,7 @@
 |   30   |      反转字符串中的单词      | [557.反转字符串中的单词](数据结构/数组/557.反转字符串中的单词.js) | [更多参考方法](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |              利用split,reverse,join方法               |
 |   31   |        转换成小写字母        |  [709.转换成小写字母](数据结构/数组/709.转换成小写字母.js)   | [更多参考方法](https://leetcode-cn.com/problems/to-lower-case/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |             fromCharCode和charCodeAt方法              |
 |   32   |         左旋转字符串         | [面试题58.左旋转字符串](数据结构/数组/面试题58.左旋转字符串.js) | [更多参考方法](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                   使用slice和concat                   |
+|   33   |        分割平衡字符串        | [1221.分割平衡字符串](数据结构/数组/1221.分割平衡字符串.js)  | [更多参考方法](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                 遍历，然后通过+1和-1                  |
 
 
 
