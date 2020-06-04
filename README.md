@@ -45,6 +45,7 @@
 |   31   |        转换成小写字母        |  [709.转换成小写字母](数据结构/数组/709.转换成小写字母.js)   | [更多参考方法](https://leetcode-cn.com/problems/to-lower-case/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |             fromCharCode和charCodeAt方法              |
 |   32   |         左旋转字符串         | [面试题58.左旋转字符串](数据结构/数组/面试题58.左旋转字符串.js) | [更多参考方法](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                   使用slice和concat                   |
 |   33   |        分割平衡字符串        | [1221.分割平衡字符串](数据结构/数组/1221.分割平衡字符串.js)  | [更多参考方法](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                 遍历，然后通过+1和-1                  |
+| **34** |      解码字母到整数映射      | [1309.解码字母到整数映射](数据结构/数组/1309.解码字母到整数映射.js) | [更多参考方法](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                      正则表达式                       |
 
 
 
