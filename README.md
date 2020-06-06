@@ -47,6 +47,7 @@
 |   33   |        分割平衡字符串        | [1221.分割平衡字符串](数据结构/字符串/1221.分割平衡字符串.js) | [更多参考方法](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                 遍历，然后通过+1和-1                  |
 | **34** |      解码字母到整数映射      | [1309.解码字母到整数映射](数据结构/字符串/1309.解码字母到整数映射.js) | [更多参考方法](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                      正则表达式                       |
 |   35   |       唯一摩尔斯密码词       | [804.唯一摩尔斯密码词](数据结构/字符串/804.唯一摩尔斯密码词.js) | [更多参考方法](https://leetcode-cn.com/problems/unique-morse-code-words/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                   Set其中的一个用途                   |
+| **36** |     面试题08.09.括号.js      |   [面试题08.09.括号](数据结构/字符串/面试题08.09.括号.js)    | [更多参考方法](https://leetcode-cn.com/problems/bracket-lcci/) | <img src="https://img.shields.io/badge/-Easy-green"> | 字符串 |                         DFS！                         |
 
 
 
