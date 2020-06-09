@@ -50,6 +50,7 @@
 | **36** |             括号             |   [面试题08.09.括号](数据结构/字符串/面试题08.09.括号.js)    | [更多参考方法](https://leetcode-cn.com/problems/bracket-lcci/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                         DFS！                         |
 |   37   |      机器人能否返回原点      | [657.机器人能否返回原点](数据结构/字符串/657.机器人能否返回原点.js) | [更多参考方法](https://leetcode-cn.com/problems/robot-return-to-origin/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |               利用split来获得LRDU的个数               |
 | **38** |           除数博弈           |       [1025.除数博弈](算法/动态规划/1025.除数博弈.js)        | [更多参考方法](https://leetcode-cn.com/problems/divisor-game/) | <img src="https://img.shields.io/badge/-Easy-green"> | 动态规划 |                动态规划（有点不太熟练                 |
+|   39   |          反转字符串          |     [344.反转字符串](数据结构/字符串/344.反转字符串.js)      | [更多参考方法](https://leetcode-cn.com/problems/reverse-string/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                 ES6解构赋值来翻转位置                 |
 
 
 
