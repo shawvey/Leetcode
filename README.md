@@ -52,6 +52,7 @@
 | **38** |           除数博弈           |       [1025.除数博弈](算法/动态规划/1025.除数博弈.js)        | [更多参考方法](https://leetcode-cn.com/problems/divisor-game/) | <img src="https://img.shields.io/badge/-Easy-green"> | 动态规划 |                动态规划（有点不太熟练                 |
 |   39   |          反转字符串          |     [344.反转字符串](数据结构/字符串/344.反转字符串.js)      | [更多参考方法](https://leetcode-cn.com/problems/reverse-string/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                 ES6解构赋值来翻转位置                 |
 |   40   |          旅行终点站          |    [1436.旅行终点站](数据结构/字符串/1436.旅行终点站.js)     | [更多参考方法](https://leetcode-cn.com/problems/destination-city/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |           利用filter找出没有以该点开始的点            |
+|   41   |         IP地址无效化         |  [1108.IP地址无效化](数据结构/字符串/1108.IP地址无效化.js)   | [更多参考方法](https://leetcode-cn.com/problems/defanging-an-ip-address/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                    利用split和join                    |
 
 
 
