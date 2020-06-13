@@ -54,6 +54,7 @@
 |   40   |           旅行终点站           |    [1436.旅行终点站](数据结构/字符串/1436.旅行终点站.js)     | [更多参考方法](https://leetcode-cn.com/problems/destination-city/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |           利用filter找出没有以该点开始的点            |
 |   41   |          IP地址无效化          |  [1108.IP地址无效化](数据结构/字符串/1108.IP地址无效化.js)   | [更多参考方法](https://leetcode-cn.com/problems/defanging-an-ip-address/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                    利用split和join                    |
 |   42   | 生成每种字符都是奇数个的字符串 | [1374.生成每种字符都是奇数个的字符串](数据结构/字符串/1374.生成每种字符都是奇数个的字符串.js) | [更多参考方法](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                       repeat()                        |
+|   43   |      判定是否互为字符重排      | [面试题01.02.判定是否互为字符重排](数据结构/字符串/面试题01.02.判定是否互为字符重排.js) | [更多参考方法](https://leetcode-cn.com/problems/check-permutation-lcci/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                利用字符重排拼成字符串                 |
 
 
 
