@@ -57,6 +57,7 @@
 |   43   |       判定是否互为字符重排       | [面试题01.02.判定是否互为字符重排](数据结构/字符串/面试题01.02.判定是否互为字符重排.js) | [更多参考方法](https://leetcode-cn.com/problems/check-permutation-lcci/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                利用字符重排拼成字符串                 |
 |   44   |           最长特殊序列           |   [521.最长特殊序列](数据结构/字符串/521.最长特殊序列.js)    | [更多参考方法](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                        子序列                         |
 |   45   | 检查单词是否为句中其他单词的前缀 | [1455.检查单词是否为句中其他单词的前缀](数据结构/字符串/1455.检查单词是否为句中其他单词的前缀.js) | [更多参考方法](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                    startsWith方法                     |
+|   46   |     1281.整数的各位积和之差      | [1281.整数的各位积和之差](算法/数学运算/1281.整数的各位积和之差.js) | [更多参考方法](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数学   |               tostring将整数转成字符串                |
 
 
 
