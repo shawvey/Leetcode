@@ -60,6 +60,7 @@
 |   46   |        整数的各位积和之差        | [1281.整数的各位积和之差](算法/数学运算/1281.整数的各位积和之差.js) | [更多参考方法](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数学   |               tostring将整数转成字符串                |
 |   47   |       打印从1到最大的n位数       | [面试题17.打印从1到最大的n位数](算法/数学运算/面试题17.打印从1到最大的n位数.js) | [更多参考方法](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数学   |          利用Math.pow求最大的对应位数的数字           |
 |   48   |        6和9组成的最大数字        | [1323.6和9组成的最大数字](算法/数学运算/1323.6和9组成的最大数字.js) | [更多参考方法](https://leetcode-cn.com/problems/maximum-69-number/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数学   | replace取代匹配的第一项 & number可以将字符串转成数字  |
+|   49   |       链表中倒数第k个节点        | [剑指Offer22.链表中倒数第k个节点](数据结构/链表/剑指Offer22.链表中倒数第k个节点.js) | [更多参考方法](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   链表   |            p多走的其实就是q要余下来的个数             |
 
 
 
