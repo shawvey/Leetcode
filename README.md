@@ -64,7 +64,7 @@
 |   50   |           二叉树的深度           | [剑指Offer55-I. 二叉树的深度](数据结构/二叉树/剑指Offer55-I.二叉树的深度.js) | [更多参考方法](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |  二叉树  |                      分支走&递归                      |
 |   51   |           二叉树的镜像           | [剑指Offer27.二叉树的镜像](数据结构/二叉树/剑指Offer27.二叉树的镜像.js) | [更多参考方法](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |  二叉树  |                         递归                          |
 |   52   |             替换空格             | [剑指Offer05.替换空格](数据结构/字符串/剑指Offer05.替换空格.js) | [更多参考方法](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  |                      split和join                      |
-|   53   |   剑指Offer06.从尾到头打印链表   | [剑指Offer06.从尾到头打印链表](数据结构/链表/剑指Offer06.从尾到头打印链表.js) | [更多参考方法](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   链表   |     利用unshift方法将读取的链表值插入到数组的头部     |
+|   53   |         从尾到头打印链表         | [剑指Offer06.从尾到头打印链表](数据结构/链表/剑指Offer06.从尾到头打印链表.js) | [更多参考方法](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   链表   |     利用unshift方法将读取的链表值插入到数组的头部     |
 
 
 
