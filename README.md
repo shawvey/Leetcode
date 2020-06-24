@@ -69,6 +69,7 @@
 |   55   |        合并两个排序的链表        | [剑指Offer25.合并两个排序的链表](数据结构/链表/剑指Offer25.合并两个排序的链表.js) | [更多参考方法](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   链表   |           递归一个个在两个链表中取最小值插入到next           |
 |   56   |         二进制中1的个数          | [剑指Offer15.二进制中1的个数](算法/数学运算/剑指Offer15.二进制中1的个数.js) | [更多参考方法](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数学   |           利用tostring(2)将整数转换成二进制字符串            |
 |   57   |      二叉搜索树的第k大节点       | [剑指Offer54.二叉搜索树的第k大节点](数据结构/二叉树/剑指Offer54.二叉搜索树的第k大节点.js) | [更多参考方法](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |  二叉树  | 第k大的节点，就是逆中序遍历的第k个节点，即右->根->左的顺序遍历 |
+|   58   |         数组中重复的数字         | [剑指Offer03.数组中重复的数字](数据结构/数组/剑指Offer03.数组中重复的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |               双重循环比较（比较傻的方法- -）                |
 
 
 
