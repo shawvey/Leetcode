@@ -71,6 +71,7 @@
 |   57   |      二叉搜索树的第k大节点       | [剑指Offer54.二叉搜索树的第k大节点](数据结构/二叉树/剑指Offer54.二叉搜索树的第k大节点.js) | [更多参考方法](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |  二叉树  | 第k大的节点，就是逆中序遍历的第k个节点，即右->根->左的顺序遍历 |
 |   58   |         数组中重复的数字         | [剑指Offer03.数组中重复的数字](数据结构/数组/剑指Offer03.数组中重复的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |               双重循环比较（比较傻的方法- -）                |
 |   59   |   数组中出现次数超过一半的数字   | [剑指Offer39.数组中出现次数超过一半的数字](数据结构/数组/剑指Offer39.数组中出现次数超过一半的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |   利用摩尔投票法。 如果是主流数字即加一，如果不是则减一。    |
+|   60   |         和为s的两个数字          | [剑指Offer57.和为s的两个数字](算法/查找/剑指Offer57.和为s的两个数字.js) | [更多参考方法](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   查找   | 因为是递增序列，所以如果和大于目标值，减少右边的值；如果和小于目标值，增加左边的值，直到相等。 |
 
 
 
