@@ -73,6 +73,7 @@
 |   59   |   数组中出现次数超过一半的数字   | [剑指Offer39.数组中出现次数超过一半的数字](数据结构/数组/剑指Offer39.数组中出现次数超过一半的数字.js) | [更多参考方法](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |   利用摩尔投票法。 如果是主流数字即加一，如果不是则减一。    |
 |   60   |         和为s的两个数字          | [剑指Offer57.和为s的两个数字](算法/查找/剑指Offer57.和为s的两个数字.js) | [更多参考方法](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   查找   | 因为是递增序列，所以如果和大于目标值，减少右边的值；如果和小于目标值，增加左边的值，直到相等。 |
 |   61   |       和为s的连续正数序列        | [剑指Offer57-II.和为s的连续正数序列](算法/查找/剑指Offer57-II.和为s的连续正数序列.js) | [更多参考方法](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   查找   | 利用滑动窗口，如果总值大于目标值，左边往右移；如果总值小于目标值，右边像右移。 |
+|   62   |  调整数组顺序使奇数位于偶数前面  | [剑指Offer21.调整数组顺序使奇数位于偶数前面](数据结构/数组/剑指Offer21.调整数组顺序使奇数位于偶数前面.js) | [更多参考方法](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |           利用两个数组来分别存偶数和奇数，然后拼接           |
 
 
 
