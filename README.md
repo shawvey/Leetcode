@@ -76,6 +76,7 @@
 |   62   |  调整数组顺序使奇数位于偶数前面  | [剑指Offer21.调整数组顺序使奇数位于偶数前面](数据结构/数组/剑指Offer21.调整数组顺序使奇数位于偶数前面.js) | [更多参考方法](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |           利用两个数组来分别存偶数和奇数，然后拼接           |
 | **63** |       圆圈中最后剩下的数字       | [剑指Offer62.圆圈中最后剩下的数字](算法/其他/剑指Offer62.圆圈中最后剩下的数字.js.js) | [更多参考方法](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> | 约瑟夫环 | 参考了[理解规律，很简单！JavaScript解法](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/li-jie-gui-lu-hen-jian-dan-javascriptjie-fa-by-fu-/) |
 |   64   |      第一个只出现一次的字符      | [剑指Offer50.第一个只出现一次的字符](数据结构/字符串/剑指Offer50.第一个只出现一次的字符.js) | [更多参考方法](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  | 如果在字符串中该字符第一个和最后一个位置 即该字符只出现过一次 |
+|   65   |        连续子数组的最大和        | [剑指Offer42.连续子数组的最大和](数据结构/数组/剑指Offer42.连续子数组的最大和.js) | [更多参考方法](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |    如果当前位置之前的值大于0，即将之前的值加在当前值上。     |
 
 
 
