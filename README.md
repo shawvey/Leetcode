@@ -78,6 +78,7 @@
 |   64   |      第一个只出现一次的字符      | [剑指Offer50.第一个只出现一次的字符](数据结构/字符串/剑指Offer50.第一个只出现一次的字符.js) | [更多参考方法](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |  字符串  | 如果在字符串中该字符第一个和最后一个位置 即该字符只出现过一次 |
 |   65   |        连续子数组的最大和        | [剑指Offer42.连续子数组的最大和](数据结构/数组/剑指Offer42.连续子数组的最大和.js) | [更多参考方法](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |    如果当前位置之前的值大于0，即将之前的值加在当前值上。     |
 |   66   |          删除链表的节点          | [剑指Offer18.删除链表的节点](数据结构/链表/剑指Offer18.删除链表的节点.js) | [更多参考方法](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   链表   |            递归 在获得对应值的时候返回下一个节点             |
+|   67   |           最小的k个数            | [剑指Offer40.最小的k个数](数据结构/数组/剑指Offer40.最小的k个数.js) | [更多参考方法](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |                  利用sort排序然后取前k个值                   |
 
 
 
