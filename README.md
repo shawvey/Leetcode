@@ -80,6 +80,7 @@
 |   66   |          删除链表的节点          | [剑指Offer18.删除链表的节点](数据结构/链表/剑指Offer18.删除链表的节点.js) | [更多参考方法](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   链表   |            递归 在获得对应值的时候返回下一个节点             |
 |   67   |           最小的k个数            | [剑指Offer40.最小的k个数](数据结构/数组/剑指Offer40.最小的k个数.js) | [更多参考方法](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   数组   |                  利用sort排序然后取前k个值                   |
 |   68   |           斐波那契数列           | [剑指Offer10-I.斐波那契数列](算法/递归和循环/剑指Offer10-I.斐波那契数列.js) | [更多参考方法](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |   递归   |            这里利用循环计算斐波那契，记得要取模！            |
+| ****69 |       用两个栈实现队列.js        | [剑指Offer09.用两个栈实现队列](数据结构/栈和队列/剑指Offer09.用两个栈实现队列.js) | [更多参考方法](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | <img src="https://img.shields.io/badge/-Easy-green"> |    栈    |                  有点没理解！！多看几遍！！                  |
 
 
 
