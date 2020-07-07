@@ -82,6 +82,7 @@
 |   68   |           斐波那契数列           | [剑指Offer10-I.斐波那契数列](算法/递归和循环/剑指Offer10-I.斐波那契数列.js) | [更多参考方法](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) |  <img src="https://img.shields.io/badge/-Easy-green">   |   递归   |            这里利用循环计算斐波那契，记得要取模！            |
 | **69** |         用两个栈实现队列         | [剑指Offer09.用两个栈实现队列](数据结构/栈和队列/剑指Offer09.用两个栈实现队列.js) | [更多参考方法](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) |  <img src="https://img.shields.io/badge/-Easy-green">   |    栈    |                  有点没理解！！多看几遍！！                  |
 |   70   |           求1+2+…+n.js           | [剑指Offer64.求1+2+…+n](算法/递归和循环/剑指Offer64.求1+2+…+n.js) | [更多参考方法](https://leetcode-cn.com/problems/qiu-12n-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |   递归   |                    利用递归且逻辑与来计算                    |
+|   71   |        从上到下打印二叉树        | [剑指Offer32-I.从上到下打印二叉树](数据结构/二叉树/剑指Offer32-I.从上到下打印二叉树.js) | [更多参考方法](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |  二叉树  |                        利用队列来遍历                        |
 
 
 
