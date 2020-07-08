@@ -83,6 +83,7 @@
 | **69** |         用两个栈实现队列         | [剑指Offer09.用两个栈实现队列](数据结构/栈和队列/剑指Offer09.用两个栈实现队列.js) | [更多参考方法](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) |  <img src="https://img.shields.io/badge/-Easy-green">   |    栈    |                  有点没理解！！多看几遍！！                  |
 |   70   |           求1+2+…+n.js           | [剑指Offer64.求1+2+…+n](算法/递归和循环/剑指Offer64.求1+2+…+n.js) | [更多参考方法](https://leetcode-cn.com/problems/qiu-12n-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |   递归   |                    利用递归且逻辑与来计算                    |
 |   71   |        从上到下打印二叉树        | [剑指Offer32-I.从上到下打印二叉树](数据结构/二叉树/剑指Offer32-I.从上到下打印二叉树.js) | [更多参考方法](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |  二叉树  |                        利用队列来遍历                        |
+|   72   |          礼物的最大价值          | [剑指Offer 47.礼物的最大价值](算法/动态规划/剑指Offer47.礼物的最大价值.js) | [更多参考方法](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> | 动态规划 |                  利用动态规划分情况进行计算                  |
 
 
 
