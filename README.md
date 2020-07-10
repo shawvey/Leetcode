@@ -85,6 +85,7 @@
 |   71   |        从上到下打印二叉树        | [剑指Offer32-I.从上到下打印二叉树](数据结构/二叉树/剑指Offer32-I.从上到下打印二叉树.js) | [更多参考方法](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |  二叉树  |                        利用队列来遍历                        |
 |   72   |          礼物的最大价值          | [剑指Offer 47.礼物的最大价值](算法/动态规划/剑指Offer47.礼物的最大价值.js) | [更多参考方法](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> | 动态规划 |                  利用动态规划分情况进行计算                  |
 |   73   |        把数组排成最小的数        | [剑指Offer45.把数组排成最小的数](数据结构/字符串/剑指Offer45.把数组排成最小的数.js) | [更多参考方法](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |  字符串  |          通过比较a+b和b+a的大小排序并合并得到最小数          |
+|   74   |    剑指Offer63.股票的最大利润    | [剑指Offer63.股票的最大利润](算法/动态规划/剑指Offer63.股票的最大利润.js) | [更多参考方法](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> | 动态规划 |          找两个差值最大的数，小的值在前，大的值在后          |
 
 
 
