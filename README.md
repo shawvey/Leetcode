@@ -89,7 +89,8 @@
 |   75   |          扑克牌中的顺子          | [剑指Offer61.扑克牌中的顺子](算法/排序/剑指Offer61.扑克牌中的顺子.js) | [更多参考方法](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |   排序   |  计算大小王个数，再计算想成为顺子需要补充的个数，两数比较。  |
 |   76   |           翻转单词顺序           | [剑指Offer58-I.翻转单词顺序](数据结构/字符串/剑指Offer58-I.翻转单词顺序.js) | [更多参考方法](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) |  <img src="https://img.shields.io/badge/-Easy-green">   |  字符串  | trim()方法用于去除字符串前导后导多余的空格；split(/\s+/)正则表达式替换空格为空 |
 |   77   |          青蛙跳台阶问题          | [剑指Offer10-II.青蛙跳台阶问题](算法/动态规划/剑指Offer10-II.青蛙跳台阶问题.js) | [更多参考方法](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> | 动态规划 |                      利用动态规划计算！                      |
-|   78   |    数组中数字出现的次数II.js     | [剑指Offer56-II.数组中数字出现的次数II.js](算法/其他/剑指Offer56-II.数组中数字出现的次数II.js) | [更多参考方法](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |   其他   |              获取indexof和lastindexof 比较即可               |
+|   78   |      数组中数字出现的次数II      | [剑指Offer56-II.数组中数字出现的次数II](算法/其他/剑指Offer56-II.数组中数字出现的次数II.js) | [更多参考方法](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |   其他   |              获取indexof和lastindexof 比较即可               |
+|   79   |         二维数组中的查找         | [剑指Offer04.二维数组中的查找](算法/查找/剑指Offer04.二维数组中的查找.js) | [更多参考方法](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |   查找   |             从右上角开始进行比较 ，然后调整行列              |
 
 
 
