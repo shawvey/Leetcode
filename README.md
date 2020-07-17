@@ -92,6 +92,7 @@
 |   78   |      数组中数字出现的次数II      | [剑指Offer56-II.数组中数字出现的次数II](算法/其他/剑指Offer56-II.数组中数字出现的次数II.js) | [更多参考方法](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |   其他   |              获取indexof和lastindexof 比较即可               |
 |   79   |         二维数组中的查找         | [剑指Offer04.二维数组中的查找](算法/查找/剑指Offer04.二维数组中的查找.js) | [更多参考方法](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> |   查找   |          从右上角开始进行比较 ，然后调整行列位置。           |
 |   80   |        旋转数组的最小数字        | [剑指Offer11.旋转数组的最小数字](数据结构/数组/剑指Offer11.旋转数组的最小数字.js) | [更多参考方法](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) |  <img src="https://img.shields.io/badge/-Easy-green">   |   数组   | 如果当前数小于前一个数 即为最小的 如果没有的话 则返回第一个数字 |
+|   81   |        把数字翻译成字符串        | [剑指Offer46.把数字翻译成字符串](算法/动态规划/剑指Offer46.把数字翻译成字符串.js) | [更多参考方法](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | <img src="https://img.shields.io/badge/-Medium-orange"> | 动态规划 |            利用动态规划获取两个位的数据来计算次数            |
 
 
 
